@@ -1,7 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("The first brunch ever.");
+        System.out.println("The second conflict brunch.");
 
     }
 }
